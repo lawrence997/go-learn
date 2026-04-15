@@ -18,6 +18,8 @@
 
 - [`basics/`](D:/codex-workspace/go-learn/basics)  
   `A Tour of Go` 跟练代码和基础语法练习
+- [`flowcontrol/`](D:/codex-workspace/go-learn/flowcontrol)  
+  `A Tour of Go` 中流程控制相关练习
 - [`book/`](D:/codex-workspace/go-learn/book)  
   《The Go Programming Language》读书练习和手写示例
 - [`projects/`](D:/codex-workspace/go-learn/projects)  
