@@ -7,5 +7,6 @@
 - `roadmap.md`：整体学习路线
 - `practice-rules.md`：练习规则和要求
 - `project-checklist.md`：项目跟练检查清单
+- `go-standard-library-cheatsheet.md`：Go 标准库速查表
 
 文档的作用是避免学习过程只剩下“今天写了什么”，而没有方法、标准和复盘。

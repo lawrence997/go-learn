@@ -9,6 +9,12 @@
 
 package main
 
+import (
+	"fmt"
+	"math/rand"
+)
+
 func main() {
-	// TODO: 在这里写你的练习代码
+	// 程序入口
+	fmt.Print("my favorite number is", rand.Intn(10), "\n")
 }
