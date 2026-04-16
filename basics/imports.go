@@ -9,6 +9,12 @@
 
 package main
 
+import (
+	"fmt"
+	"math"
+)
+
 func main() {
 	// TODO: 在这里写你的练习代码
+	fmt.Printf("now you have %g problems.\n", math.Sqrt(7))
 }

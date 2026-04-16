@@ -16,5 +16,5 @@ import (
 
 func main() {
 	// 程序入口
-	fmt.Print("my favorite number is", rand.Intn(10), "\n")
+	fmt.Print("my favorite number is ", rand.Intn(10), "\n")
 }
