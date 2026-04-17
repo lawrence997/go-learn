@@ -9,6 +9,16 @@
 
 package main
 
+import (
+	"fmt"
+	"math"
+)
+
+/*
+小写函数是私有的，不能被其他包访问
+大写函数是公共的，可以被其他包访问
+*/
 func main() {
 	// TODO: 在这里写你的练习代码
+	fmt.Print(math.pi)
 }
